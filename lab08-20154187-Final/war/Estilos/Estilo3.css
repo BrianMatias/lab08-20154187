@@ -1,0 +1,102 @@
+<style>
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+       list-style:none;
+}
+p{text-align:center; 
+	
+}
+body{
+	background: #fff;
+	text-decoration:none;
+}
+
+header{
+	background: #0B0B61;
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px auto;
+	color: white;
+	text-align: center;
+}
+
+h4{
+	color:#000;
+	
+}
+cuerpo,p,a{
+	
+	text-decoration:none;
+	list-style: none;
+	background: #0B0B61 ;
+	color:white;
+	width:1300;
+	height:200px;
+	text-align: center;
+	position:relative;
+	top:30px;
+	padding: 3px 10px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+form {
+	text-align:center; 
+	color:#000;
+	position:relative;
+	top:;
+	left: 10px;
+	margin:5px;
+	padding: 0px;
+}
+label{
+	font-size:12px;
+	display:block;
+	width: 20%;
+}
+input,textarea{
+	margin-bottom: 10px  ;
+	width: 60%;
+	padding: 20px ;
+	
+	
+}
+input:focus{
+	border :1px solid #FF1493;
+}
+input[type="submit"]{
+	margin-bottom: 0;
+	background: #0B0B61;
+	color:#fff;
+	border: none;
+}
+input[type="submit"]:hover{
+	background: #2E2EFE;
+	cursor:pointer;
+}
+#centro{
+	margin:150px auto;
+	width:600;
+}
+table{
+	background-color:white;
+	text-align:center;
+	width 100%
+}
+th,td {
+	
+	padding:20;
+}
+thead {
+	 background-color:#0B0B61;
+	 border-bottom:solid 5px #0B0B61;
+	 color:white;
+}
+tr:nth-child(even){
+	background-color:#ddd;
+}
+
+</style>
+
